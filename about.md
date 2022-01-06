@@ -13,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 ### Contact me
 
 # [email@domain.com](mailto:email@domain.com)
-[email@domain.com](mailto:uchennanze53@yahoo.com)
+[uchennanze53@yahoo.com](mailto:uchennanze53@yahoo.com)
