@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a programmer and a database developer. I work with Oracle, Python, HTML, and CSSS.
+I am a programmer and a database developer. I work with Oracle, Python, HTML, and CSS.
 
 ### More Information
 
