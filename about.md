@@ -4,11 +4,21 @@ title: About
 permalink: /about/
 ---
 
-I am a programmer and a database developer. I work with Oracle, Python, HTML, and CSS.
+We are software company providing everything you need to successfully market your business to customers. Our services include:
+
+Business Intelligence:                                      Mobile App Development:                       Digital Marketing:
+BI Planning & Strategy                                      IOS & Android                                 Search Engine Optimization(SEO)
+Database Development, Implementation & Integration          HTML5 Mobile Development                      Social Media Optimization/Social Media Marketing
+Process & Reporting Optimization                            Cross-platform Development                    Articles And PR Submission
+Performance Optimization                                    Responsive Design                             Search Engine Marketing/Pay Per Click
+Data Warehousing Assistance                                                                               Blog Marketing
+Analysis & Reporting Support                                                                              Content Writing
+Data Visualization Assistance                                                                             Social Media Marketing
+MS Development
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+We also offer training in Oracle, Python, HTML, and CSS.
 
 ### Contact me
 
