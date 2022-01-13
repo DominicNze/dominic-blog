@@ -6,15 +6,30 @@ permalink: /about/
 
 We are software company providing everything you need to successfully market your business to customers. Our services include:
 
-Business Intelligence:                                      Mobile App Development:                       Digital Marketing:
-BI Planning & Strategy                                      IOS & Android                                 Search Engine Optimization(SEO)
-Database Development, Implementation & Integration          HTML5 Mobile Development                      Social Media Optimization/Social Media Marketing
-Process & Reporting Optimization                            Cross-platform Development                    Articles And PR Submission
-Performance Optimization                                    Responsive Design                             Search Engine Marketing/Pay Per Click
-Data Warehousing Assistance                                                                               Blog Marketing
-Analysis & Reporting Support                                                                              Content Writing
-Data Visualization Assistance                                                                             Social Media Marketing
+Business Intelligence:                                      
+BI Planning & Strategy      
+Database Development, Implementation & Integration  
+Process & Reporting Optimization    
+Performance Optimization    
+Data Warehousing Assistance  
+Analysis & Reporting Support    
+Data Visualization Assistance  
 MS Development
+
+Mobile App Development:                     
+IOS & Android             
+HTML5 Mobile Development       
+Cross-platform Development    
+Responsive Design  
+
+Digital Marketing:
+Search Engine Optimization(SEO)
+Social Media Optimization/Social Media Marketing
+Articles And PR Submission
+Search Engine Marketing/Pay Per Click
+Blog Marketing
+Content Writing
+Social Media Marketing
 
 ### More Information
 
