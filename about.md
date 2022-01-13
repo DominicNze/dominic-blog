@@ -22,14 +22,14 @@ HTML5 Mobile Development
 Cross-platform Development    
 Responsive Design  
 
-Digital Marketing:
-Search Engine Optimization(SEO)
-Social Media Optimization/Social Media Marketing
-Articles And PR Submission
-Search Engine Marketing/Pay Per Click
-Blog Marketing
-Content Writing
-Social Media Marketing
+Digital Marketing:    
+Search Engine Optimization(SEO)   
+Social Media Optimization/Social Media Marketing    
+Articles And PR Submission    
+Search Engine Marketing/Pay Per Click   
+Blog Marketing    
+Content Writing   
+Social Media Marketing    
 
 ### More Information
 
